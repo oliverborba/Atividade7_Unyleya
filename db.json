@@ -1,0 +1,40 @@
+{
+  "colections": [
+    {
+      "id": "1",
+      "titulo": "Demon's Souls",
+      "genero": "JRPG",
+      "desenvolvedor": "FromSoftware",
+      "console": "PlayStation 4",
+      "lancamento": "2009",
+      "img": "https://i.blogs.es/d8d910/thevideogamegallery_2294_1280x720/450_1000.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "Dark Souls",
+      "genero": "JRPG",
+      "desenvolvedor": "FromSoftware",
+      "console": " Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Nintendo Switch",
+      "lancamento": "2011",
+      "img": "https://gazingogazongo.files.wordpress.com/2012/09/darksoulssoundtrack.png"
+    },
+    {
+      "id": "3",
+      "titulo": "Dark Souls 2",
+      "genero": "JRPG",
+      "desenvolvedor": "FromSoftware",
+      "console": " Microsoft Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",
+      "lancamento": "2014",
+      "img": "https://image.api.playstation.com/cdn/EP0700/CUSA01589_00/21rOFjBV5DILns8WjOurM0KgbO5ZMcUh.png"
+    },
+    {
+      "id": "4",
+      "titulo": "Dark Souls 3",
+      "genero": "JRPG",
+      "desenvolvedor": "FromSoftware",
+      "console": " Microsoft Windows, PlayStation 4,  Xbox One",
+      "lancamento": "2016",
+      "img": "https://www.mobygames.com/images/covers/l/630320-dark-souls-iii-the-fire-fades-edition-playstation-4-front-cover.jpg"
+    }
+  ]
+}
